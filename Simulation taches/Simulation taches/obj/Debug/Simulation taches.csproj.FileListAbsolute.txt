@@ -1,0 +1,10 @@
+C:\Users\Roxanne\source\repos\Simulation taches\Simulation taches\bin\Debug\Simulation taches.exe.config
+C:\Users\Roxanne\source\repos\Simulation taches\Simulation taches\bin\Debug\Simulation taches.exe
+C:\Users\Roxanne\source\repos\Simulation taches\Simulation taches\bin\Debug\Simulation taches.pdb
+C:\Users\Roxanne\source\repos\Simulation taches\Simulation taches\obj\Debug\Simulation taches.csprojResolveAssemblyReference.cache
+C:\Users\Roxanne\source\repos\Simulation taches\Simulation taches\obj\Debug\Simulation_taches.Simulation.resources
+C:\Users\Roxanne\source\repos\Simulation taches\Simulation taches\obj\Debug\Simulation_taches.Properties.Resources.resources
+C:\Users\Roxanne\source\repos\Simulation taches\Simulation taches\obj\Debug\Simulation taches.csproj.GenerateResource.Cache
+C:\Users\Roxanne\source\repos\Simulation taches\Simulation taches\obj\Debug\Simulation taches.csproj.CoreCompileInputs.cache
+C:\Users\Roxanne\source\repos\Simulation taches\Simulation taches\obj\Debug\Simulation taches.exe
+C:\Users\Roxanne\source\repos\Simulation taches\Simulation taches\obj\Debug\Simulation taches.pdb

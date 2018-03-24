@@ -1,0 +1,10 @@
+C:\Users\Roxanne\source\repos\Thermostat\Thermostat\bin\Debug\Thermostat.exe.config
+C:\Users\Roxanne\source\repos\Thermostat\Thermostat\bin\Debug\Thermostat.exe
+C:\Users\Roxanne\source\repos\Thermostat\Thermostat\bin\Debug\Thermostat.pdb
+C:\Users\Roxanne\source\repos\Thermostat\Thermostat\obj\Debug\Thermostat.csprojResolveAssemblyReference.cache
+C:\Users\Roxanne\source\repos\Thermostat\Thermostat\obj\Debug\Thermostat.Thermos.resources
+C:\Users\Roxanne\source\repos\Thermostat\Thermostat\obj\Debug\Thermostat.Properties.Resources.resources
+C:\Users\Roxanne\source\repos\Thermostat\Thermostat\obj\Debug\Thermostat.csproj.GenerateResource.Cache
+C:\Users\Roxanne\source\repos\Thermostat\Thermostat\obj\Debug\Thermostat.csproj.CoreCompileInputs.cache
+C:\Users\Roxanne\source\repos\Thermostat\Thermostat\obj\Debug\Thermostat.exe
+C:\Users\Roxanne\source\repos\Thermostat\Thermostat\obj\Debug\Thermostat.pdb
